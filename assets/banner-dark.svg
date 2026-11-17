@@ -29,10 +29,9 @@
   </g>
 
   <!-- intro text -->
-  <text class="mono" x="72" y="98" font-size="24" fill="#8b949e"><tspan fill="#3fb950">$</tspan> whoami</text>
-  <text class="mono" x="72" y="176" font-size="72" font-weight="700" fill="#e6edf3" textLength="346" lengthAdjust="spacingAndGlyphs">0xstaark</text>
-  <rect class="cursor" x="430" y="124" width="30" height="56" fill="#3fb950"/>
-  <text class="mono" x="72" y="230" font-size="20" fill="#8b949e">Offensive security · Penetration testing · Tooling</text>
+  <text class="mono" x="72" y="150" font-size="72" font-weight="700" fill="#e6edf3" textLength="346" lengthAdjust="spacingAndGlyphs">0xstaark</text>
+  <rect class="cursor" x="430" y="98" width="30" height="56" fill="#3fb950"/>
+  <text class="mono" x="72" y="204" font-size="20" fill="#8b949e">Offensive security · Penetration testing · Tooling</text>
 
   <!-- attack-path graph -->
   <g stroke="#30363d" stroke-width="2">
